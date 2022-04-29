@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61c888a4.css",
+    "main.js": "/static/js/main.bd091d1a.js",
+    "static/js/787.a3118e53.chunk.js": "/static/js/787.a3118e53.chunk.js",
+    "static/media/istockphoto-1145914853-612x612-removebg-preview-1-300x269.png": "/static/media/istockphoto-1145914853-612x612-removebg-preview-1-300x269.0e1ea2b61316486aaddb.png",
+    "static/media/talking.png": "/static/media/talking.02fdb3be53b79d852f32.png",
+    "static/media/happy-iphone.gif": "/static/media/happy-iphone.39fbfb2f5bfac9b25e24.gif",
+    "static/media/20210802_133850_0000.png": "/static/media/20210802_133850_0000.80bf2d56943f41d124d4.png",
+    "static/media/GoodLives-how-it-works.png": "/static/media/GoodLives-how-it-works.e4f2521cf982e4e92c37.png",
+    "static/media/1-1.png": "/static/media/1-1.9a9efb739df5a59fc86b.png",
+    "static/media/Untitled_design__16_-removebg-preview-2.png": "/static/media/Untitled_design__16_-removebg-preview-2.e2972e63e3908b2ba2bc.png",
+    "static/media/alone.jpeg": "/static/media/alone.8e2db6169bf50a7eb6bf.jpeg",
+    "static/media/cropped-GOOD_LIVES-removebg-preview-removebg-preview-1.png": "/static/media/cropped-GOOD_LIVES-removebg-preview-removebg-preview-1.82e8de6e8347deebf399.png",
+    "index.html": "/index.html",
+    "main.61c888a4.css.map": "/static/css/main.61c888a4.css.map",
+    "main.bd091d1a.js.map": "/static/js/main.bd091d1a.js.map",
+    "787.a3118e53.chunk.js.map": "/static/js/787.a3118e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c888a4.css",
+    "static/js/main.bd091d1a.js"
+  ]
+}
